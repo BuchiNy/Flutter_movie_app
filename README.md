@@ -1,16 +1,7 @@
 # the_m_shop
 
-the M shop is an e-commerence application which hosts catalogs for electronics sold by different business.
+this is a simple application used to pull movies from an online database using an api and it uses firebase auth with google sign in
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+in the const.dart file add your own personal api key from themoviedb,
+run flutter fire in your project and add you firebase project.

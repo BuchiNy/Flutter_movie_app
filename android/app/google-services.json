@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "343009906112",
+    "project_id": "zapakhomo",
+    "storage_bucket": "zapakhomo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343009906112:android:6960710cef889672ea4c25",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343009906112-5k3dt99nkt5rq5460tuo1bjce6ve6hev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-pJ9n62UsLXSn5rmbXtg8lv1xk9ivT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343009906112-5eounufc9ul5seabto3iedi4alv47lf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343009906112-16roe0d97ch9ucf77sh9bmlet9h35eht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zapakhomo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343009906112:android:c336db7aa718ba6aea4c25",
+        "android_client_info": {
+          "package_name": "com.example.the_m_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343009906112-atds17k76tockre27qqdvareoi8ksrvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.the_m_shop",
+            "certificate_hash": "c54909af955b54c365d88d0bce537fa80ee81b01"
+          }
+        },
+        {
+          "client_id": "343009906112-5k3dt99nkt5rq5460tuo1bjce6ve6hev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-pJ9n62UsLXSn5rmbXtg8lv1xk9ivT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343009906112-5eounufc9ul5seabto3iedi4alv47lf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343009906112-16roe0d97ch9ucf77sh9bmlet9h35eht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zapakhomo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
